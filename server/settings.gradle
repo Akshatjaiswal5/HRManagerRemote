@@ -1,0 +1,3 @@
+
+rootProject.name = 'server'
+include('bl', 'proxypl','common','network','dbdl')
